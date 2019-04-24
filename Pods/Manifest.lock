@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.0.0-beta.5)
+  - Kingfisher (5.3.1)
+  - ReachabilitySwift (4.3.1)
+  - SVProgressHUD (2.2.5)
+  - XCDYouTubeKit (2.7.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - Kingfisher (~> 5.0)
+  - ReachabilitySwift
+  - SVProgressHUD
+  - XCDYouTubeKit (~> 2.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - ReachabilitySwift
+    - SVProgressHUD
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: 9afb08f7f43efcc71c072374e720fcf67521317d
+  Kingfisher: d9e7e0b209b59b8f9873aa2f37654e81a7beea51
+  ReachabilitySwift: 4032e2f59586e11e3b0ebe15b167abdd587a388b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XCDYouTubeKit: 3f4fd3eb3ed494a46a8f007b91315eed6dd6df1f
+
+PODFILE CHECKSUM: 53399cdc4b564f6f2eddef4bcd5454ec470dba8b
+
+COCOAPODS: 1.6.1
